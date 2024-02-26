@@ -29,3 +29,4 @@ result = test_session.sql("select current_warehouse(), current_database(), curre
 # Print the result
 print(result)
 
+#GitHub Token = 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
